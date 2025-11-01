@@ -1,2 +1,2 @@
-# java-oopera-master
+# java-oopera
 Repository for homework project.
